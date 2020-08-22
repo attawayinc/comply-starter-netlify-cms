@@ -1,6 +1,7 @@
 ---
-id: "offboard"
-name: "Offboard User"
+name: Offboard User
+id: offboard
+cron: "@yearly"
 ---
 
 Resolve this ticket by executing the following steps:
